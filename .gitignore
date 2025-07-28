@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environments
+.env
+venv/
+
+# Data and outputs
+data/
+outputs/
+models/
+
+# OS-specific
+.DS_Store
